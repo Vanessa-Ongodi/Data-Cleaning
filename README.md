@@ -7,4 +7,4 @@ Dirty data can create problems in data analysis and has to be taken care of befo
 Sometimes in large datasets, completely removing dirty data from a source can be impossible so we aim to clean at least 80–90% of the data. To make good data predictions and create better visualizations with data, the raw data acquired must be cleaned because unclean data can impact data findings.
 
 
- Data cleaning is a part of the data preprocessing stage. 
+Data cleaning is a part of the data preprocessing stage. 
